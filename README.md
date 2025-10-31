@@ -1,7 +1,11 @@
 Salinity dissolution experiment	
+
 Bethany King, Dept. of Earth Sciences, University of Cambridge	
+
 bfk24@cam.ac.uk	
+
 Experiment was carried out between January and August 2024. Data collection was made in August 2024 at the University of Cambridge.	
+
 Spreadsheet 1: Resin_blocks_shell_loss	
 	
 Salinity		Measured as ppt using a handheld salinity meter (HI-98319, Hanna Instruments)
